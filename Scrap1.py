@@ -10,7 +10,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 # --- CONFIGURATION ---
 LOGIN_URL = "https://www.carlislebrass.com/customer/account/login/"
 # Use the product you are testing
-PRODUCT_URL = "https://www.carlislebrass.com/products/window-fittings/casement-stays/curly-tail-casement-stay-49473"
+PRODUCT_URL = "https://www.carlislebrass.com/products/accessories/escutcheons/standard-profile-escutcheon-51003"
 USERNAME = "accountsuk@euro-art.co.uk"
 PASSWORD = "Hasanpur1"
 
